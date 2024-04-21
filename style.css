@@ -1,4 +1,5 @@
-.banner {     background: url("image/B222.jpg") no-repeat center center; 
+.banner {  
+    background: url("image/B222.jpg") no-repeat center center; 
     background-size: cover;     padding-top: 20%; 
     padding-bottom: 20%;     color: #fff; 
   }  
