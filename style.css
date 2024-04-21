@@ -37,7 +37,7 @@
   }
   
   .kontak {
-    background: url("/image/BB.jpg") no-repeat
+    background: url("Image/BB.jpg") no-repeat
       center center;
     background-size: cover;
     padding-bottom: 20%;
