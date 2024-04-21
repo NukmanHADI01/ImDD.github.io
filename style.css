@@ -1,5 +1,5 @@
 .banner { 
-    background: url("image/B222.jpg") no-repeat center center; 
+    background: url("image/BB.jpg") no-repeat center center; 
     background-size: cover; 
     padding-top: 20%; 
     padding-bottom: 20%; 
@@ -37,7 +37,7 @@
   }
   
   .kontak {
-    background: url("image/B222.jpg") no-repeat
+    background: url("image/BB.jpg") no-repeat
       center center;
     background-size: cover;
     padding-bottom: 20%;
@@ -74,7 +74,7 @@
   
   .bg-image {
     /* The image used */
-    background-image: url("image/B222.jpg");
+    background-image: url("image/BB.jpg");
   
     /* Add the blur effect */
     filter: blur(8px);
